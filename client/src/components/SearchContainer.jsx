@@ -17,7 +17,7 @@ export const SearchContainer = ({ searchParams }) => {
     return (e) => {
       const form = e.currentTarget.form; //get the form element from the event 'e'
       clearTimeout(timeout);
-      timeout = setTimeout(() => { onChange(form); }, 2000);
+      timeout = setTimeout(() => { onChange(form); }, 800);
     };
   };
 

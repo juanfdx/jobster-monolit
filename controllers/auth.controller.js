@@ -54,7 +54,11 @@ export const login = async (req, res) => {
 
   //create the cookie
   const lifeTime = 1000 * 60 * 60 * 12 //12 hours
-  res.cookie('token', token, { httpOnly: true, expires: new Date(Date.now() + lifeTime) });
+  res.cookie('token', token, { 
+    httpOnly: true, 
+    expires: new Date(Date.now() + lifeTime),
+    secure: process.env.NODE_ENV === 'production', //true in production, cookie only works in https
+  });
 
   res.status(StatusCodes.OK).json({msg: 'user logged in'});
 
