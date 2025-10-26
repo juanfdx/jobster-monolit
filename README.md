@@ -1,6 +1,6 @@
 ## 🧾 Description
 
-A fully responsive job tracking platform designed to simplify the process of managing job applications. Developed using React.js along with HTML, CSS, JavaScript, React.js, Node, Express and Mongodb, it delivers an efficient, modern, and visually appealing user experience for job seekers.
+A fully responsive job tracking platform designed to simplify the process of managing job applications. Developed using React.js along with HTML, CSS, JavaScript, React.js, Node, Express and Mongodb. It delivers an efficient, modern, and visually appealing user experience for job seekers.
 
 ## 🧐 Author 
 
@@ -21,6 +21,7 @@ Visit the website:&nbsp; [Jobify](https://app-jobster-monolit-a4ad47f0e0d5.herok
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript"/>
   <img src="https://img.icons8.com/plasticine/52/000000/react.png"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
 </p>
 
 ## ☎ Contact me
