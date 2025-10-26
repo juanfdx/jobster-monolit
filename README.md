@@ -12,7 +12,7 @@ Juan Fernandez Diaz
 
 ## 🚀 Demo
 
-Visit the template website:&nbsp; [Job Finder](https://app-jobster-monolit-a4ad47f0e0d5.herokuapp.com/)
+Visit the website:&nbsp; [Jobify](https://app-jobster-monolit-a4ad47f0e0d5.herokuapp.com/)
 
 ## 💻 Built with
 
