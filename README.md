@@ -1,6 +1,6 @@
 ## 🧾 Description
 
-A fully responsive job tracking platform designed to simplify the process of managing job applications. Developed using React.js along with HTML, CSS, Sass, and JavaScript, it delivers an efficient, modern, and visually appealing user experience for job seekers.
+A fully responsive job tracking platform designed to simplify the process of managing job applications. Developed using React.js along with HTML, CSS, JavaScript, React.js, Node, Express and Mongodb, it delivers an efficient, modern, and visually appealing user experience for job seekers.
 
 ## 🧐 Author 
 
