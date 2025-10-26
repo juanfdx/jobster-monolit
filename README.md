@@ -22,7 +22,7 @@ Visit the website:&nbsp; [Jobify](https://app-jobster-monolit-a4ad47f0e0d5.herok
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript"/>
   <img src="https://img.icons8.com/plasticine/52/000000/react.png"/>
   <img width="45" height="45" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
+  <img width="42" height="42" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
 </p>
 
 ## ☎ Contact me
